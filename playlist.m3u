@@ -9,7 +9,7 @@
 # For any issues or concerns, please contact the developer.
 #==================================
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="Fifa",T SPORTS HD
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="Fifa 2026",T SPORTS HD
 https://edge2.roarzone.net:8447/roarzone/edge5/t-sports-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
