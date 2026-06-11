@@ -11,24 +11,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/02/Tapmad-Logo-Vector.jpg" group-title="Fifa 2026",Tapmad TV
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yVvsWFx/tyc-sports-logo-png-seeklogo-340604.png" group-title="Fifa 2026",Tyc Sports
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png" group-title="Fifa 2026",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8?amp%3Btoken=db1789e36c278bf538489fac263e0ffb&amp%3Bu=78be6644-0a65-48ec-81a4-089ac65a2619&e=1779283784
-#EXTINF:-1 tvg-logo="https://www.bangladeshyp.com/img/bd/h/_1696390697-33-somoy-tv.jpg" group-title="Fifa 2026",Somoy TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="Fifa 2026",T SPORTS HD
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2fRggV8/cazetv-logo-png-seeklogo-619708.png" group-title="Fifa 2026",Caze TV 
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-name="Gopal Bhar" group-title="24/7",Gopal Bhar
+
+#EXTINF:-1 tvg-name="Gopal Bhar" group-title="x24/7",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="South Movies" group-title="24/7",South Movies
+#EXTINF:-1 tvg-name="South Movies" group-title="x24/7",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Doraemon" group-title="24/7",Doraemon
+#EXTINF:-1 tvg-name="Doraemon" group-title="x24/7",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Motu Patlu" group-title="24/7",Motu Patlu
+#EXTINF:-1 tvg-name="Motu Patlu" group-title="x24/7",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="24/7",Hindi Movies
+#EXTINF:-1 tvg-name="Hindi Movies" group-title="x24/7",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
