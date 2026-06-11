@@ -11,7 +11,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9Z1w8F/image.png" group-title="Fifa 2026",Tapmad TV
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbkdhDn6/V-PWWq0r.jpg" group-title="Fifa 2026",Unite8 Sports
+https://himelhimuishere.pages.dev/fwc26.m3u8
 
 #EXTINF:-1 tvg-name="Gopal Bhar" group-title="Live 24/7",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
