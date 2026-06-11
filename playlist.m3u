@@ -9,6 +9,8 @@
 # For any issues or concerns, please contact the developer.
 #==================================
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/02/Tapmad-Logo-Vector.jpg" group-title="Fifa 2026",Tapmad TV
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yVvsWFx/tyc-sports-logo-png-seeklogo-340604.png" group-title="Fifa 2026",Tyc Sports
 http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png" group-title="Fifa 2026",PTV Sports
