@@ -9,6 +9,8 @@
 # For any issues or concerns, please contact the developer.
 #==================================
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yVvsWFx/tyc-sports-logo-png-seeklogo-340604.png" group-title="Fifa 2026",Tyc Sports
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png" group-title="Fifa 2026",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8?amp%3Btoken=db1789e36c278bf538489fac263e0ffb&amp%3Bu=78be6644-0a65-48ec-81a4-089ac65a2619&e=1779283784
 #EXTINF:-1 tvg-logo="https://www.bangladeshyp.com/img/bd/h/_1696390697-33-somoy-tv.jpg" group-title="Fifa 2026",Somoy TV
