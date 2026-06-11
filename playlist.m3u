@@ -13,13 +13,13 @@
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 
 
-#EXTINF:-1 tvg-name="Gopal Bhar" group-title="x24/7",Gopal Bhar
+#EXTINF:-1 tvg-name="Gopal Bhar" group-title="Live 24/7",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="South Movies" group-title="x24/7",South Movies
+#EXTINF:-1 tvg-name="South Movies" group-title="Live 24/7",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Doraemon" group-title="x24/7",Doraemon
+#EXTINF:-1 tvg-name="Doraemon" group-title="Live 24/7",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Motu Patlu" group-title="x24/7",Motu Patlu
+#EXTINF:-1 tvg-name="Motu Patlu" group-title="Live 24/7",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="x24/7",Hindi Movies
+#EXTINF:-1 tvg-name="Hindi Movies" group-title="Live 24/7",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
