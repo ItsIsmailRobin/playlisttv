@@ -14,8 +14,8 @@
 https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2F0%2Fmaster_3500.m3u8&cookie=%22Expires%3D1781384422~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAaPNU3dbIY7IiJrSI6OW3Ib5erlv3Kq_VWZBy7KdUdgECEwjkk9eZKlZgxTv2KrDABTqRP7t_YLWToxs5R2UCRVMZFwD%22
 #EXTINF:-1 tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/BEINX/large_white.png" group-title="Fifa 2026",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpKQ9Wzd/id9AQiz-VBn-1781377154375.png" group-title="Fifa 2026",Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9Z1w8F/image.png" group-title="Fifa 2026",Tapmad TV
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
