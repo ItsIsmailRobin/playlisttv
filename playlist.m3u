@@ -10,21 +10,6 @@
 #==================================
 
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWVj7khh/1000284377.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-
-
 #EXTINF:-1 tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw.png" group-title="Fifa 2026",Toffee Live
 https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2F0%2Fmaster_3500.m3u8&cookie=%22Expires%3D1781372565~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAaPNU3dPJyjCWl9uqYUhckb0fdg7RP-kLcuSqR5V5pjo62P2P2iQTcyTjpVuuIIP9NLcdW0VA1Z9_6NVwI2H36GyJbAC%22
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9Z1w8F/image.png" group-title="Fifa 2026",Tapmad TV
