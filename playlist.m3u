@@ -11,7 +11,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw.png" group-title="Fifa 2026",Toffee Live
-https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2F0%2Fmaster_3500.m3u8&cookie=%22Expires%3D1781372565~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAaPNU3dPJyjCWl9uqYUhckb0fdg7RP-kLcuSqR5V5pjo62P2P2iQTcyTjpVuuIIP9NLcdW0VA1Z9_6NVwI2H36GyJbAC%22
+https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2F0%2Fmaster_3500.m3u8&cookie=%22Expires%3D1781384422~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAaPNU3dbIY7IiJrSI6OW3Ib5erlv3Kq_VWZBy7KdUdgECEwjkk9eZKlZgxTv2KrDABTqRP7t_YLWToxs5R2UCRVMZFwD%22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" group-title="Fifa 2026",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9Z1w8F/image.png" group-title="Fifa 2026",Tapmad TV
