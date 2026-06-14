@@ -10,14 +10,12 @@
 #==================================
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/3840px-DAZN_logo.svg.png" group-title="Fifa 2026",DAZN
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Koora City
+https://live.kooran12.cfd/tist1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",GO Live HD
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Fifa 26 HD - Chinese
 https://play.7vuaq.com/sport/202_5198527_1.m3u8?timestamp=1781473294&secret=6b7a81367f6e0c34e608b7ebde82c092
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Koora City
-https://live.kooran12.cfd/tist1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9Z1w8F/image.png" group-title="Fifa 2026",Tapmad TV
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 #EXTINF:-1 tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw.png" group-title="Fifa 2026",Toffee Live
