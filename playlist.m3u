@@ -10,8 +10,6 @@
 #==================================
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv5-2023-logo-png_seeklogo-504103.png" group-title="Fifa 2026",Sport TV5
-https://dz5.bhalocast.pro:7059/hls/foxsp1.m3u8?md5=vftIN84KTrezd6uM3CkWnQ&expires=1781457923&ch=foxsp1&s=67ec97ef907b483642daf790ff6a9751
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/3840px-DAZN_logo.svg.png" group-title="Fifa 2026",DAZN
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw.png" group-title="Fifa 2026",Toffee Live
