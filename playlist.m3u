@@ -10,8 +10,8 @@
 #==================================
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Koora City
-https://live.kooran12.cfd/tist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt29JnSh/image.png" group-title="Fifa 2026",Somoy TB HD
+https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",GO Live HD
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Fifa 26 HD - Chinese
