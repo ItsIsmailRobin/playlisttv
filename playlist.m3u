@@ -16,7 +16,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",RTB GO HD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",DAZN HD
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/BEINX/large_white.png" group-title="Fifa 2026",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
