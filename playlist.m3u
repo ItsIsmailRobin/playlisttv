@@ -20,14 +20,13 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NNjFJvt/image.png" group-title="Fifa 2026",TSports HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLgpgXSD/image.png" group-title="Fifa 2026",Fox Sports HD
-https://vibestream.ntechbd.app/proxy?url=http%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8
+
 #EXTINF:-1 tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/BEINX/large_white.png" group-title="Fifa 2026",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw.png" group-title="Fifa 2026",Toffee Live
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_1700.m3u8?hdntl=Expires=1781798641~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_VtGgTWI0VghNotNGvJmYwWNhv3xYqCez-pHHNnlXYBBPtoJSzQoG_ZnPwvxwzx5VFF5XJN6HJ1UWaKwlZlXIF
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Fifa Chinese HD
+EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Fifa Chinese HD
 https://play.7vuaq.com/sport/202_5121699_1.m3u8?timestamp=1781729218&secret=c097758289bb5f518d01252ef4f0d740
 
 
@@ -38,9 +37,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpKQ9Wzd/id9AQiz-VBn-1781377154375.png" group-title="Fifa 2026",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-
-#EXTINF:-1 group-title="Fifa 2026" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Fifa 2026",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
