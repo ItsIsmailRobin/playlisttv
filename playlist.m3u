@@ -15,12 +15,12 @@
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",RTB GO HD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",Unite8 HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",EN ViVO
 https://daffodil.thelistener.pk/tele.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",TSN4
+https://sportzfylive.com/stream/hd1-usa-x-australia-2026-06-19/manifest.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",DAZN HD
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",DSports
