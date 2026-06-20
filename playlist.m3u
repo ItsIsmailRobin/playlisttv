@@ -10,11 +10,18 @@
 #==================================
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD
-https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD 
+https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD 2
+https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD 3
 https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvgZZXYr/CITYPNG-COM-FREE-be-In-Sports-White-Logo-PNG-2000x2000.png" group-title="Fifa 2026 Premium",Bein Sports 1
+
+
+
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/zvgZZXYr/CITYPNG-COM-FREE-be-In-Sports-White-Logo-PNG-2000x2000.png" group-title="Fifa 2026 Premium",Bein Sports 1
 https://pul-tenm.nbs3g.com/live/hd-en-1-4460911.m3u8?txSecret=f9466fa2917bf6f9f0a367af4ee3c3aa&txTime=6A374960
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",GO Live HD
