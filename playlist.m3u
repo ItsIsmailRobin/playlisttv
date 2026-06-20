@@ -10,12 +10,12 @@
 #==================================
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",FUSSBALL - No Commentry
-https://junkieembeds.pages.dev/1781933828/971ef61b7ce94305b67aa8c8cff64218/iXL-WLpgoupWVy08q-TQy5iMG5PhFQXH8B4SXRXxDMY/fusballtvuhd-de.m3u8
+EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",FUSSBALL - No Commentry
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fox Sports HD
-https://junkieembeds.pages.dev/1781933090/f854d6d0cbad42f39144f01e4c106647/wCX1iZ4nYQ1lhZ_CEBaT2Ytg3GyyXlw-oZgIToVbPeQ/fox-sports-1-4k.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",DAZN HD 
-https://junkieembeds.pages.dev/1781933364/f3af4d1e0677411eb37c02e5fef8401b/TBtJSOwwgxuXc2gVEnCRNnP2bNZruIORplmptwnq_CU/daznlaliga-es.m3u8
+https://junkieembeds.pages.dev/1781950237/0fb3870c985c4b6587fd6cf5e2974349/I1mRmrMx_vL4UCZkuZwijy3KSStPnHgmsp_HLrnPzIc/fox-sports-1.m3u8
+EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",DAZN HD 
+
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",DSports
