@@ -10,10 +10,11 @@
 #==================================
 
 #EXTM3U
-EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",FUSSBALL - No Commentry
-
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fox Sports HD
 https://junkieembeds.pages.dev/1781950237/0fb3870c985c4b6587fd6cf5e2974349/I1mRmrMx_vL4UCZkuZwijy3KSStPnHgmsp_HLrnPzIc/fox-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",FUSSBALL - 1
+https://junkieembeds.pages.dev/1781950625/4ca1b9709f7f46eb9e38222def1eb45b/XjQMQ2MWoclZYqzg7cKM-Jrpm4W_Q6kwjNxJ5a6cxSA/fusballtv1uhd-de.m3u8
+
 EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",DAZN HD 
 
 
