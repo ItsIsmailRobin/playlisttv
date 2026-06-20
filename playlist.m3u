@@ -23,48 +23,36 @@ https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",DSports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",GO Live HD
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",Koora City
+https://eva.sewaf.online/wiiikia2_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",RTB GO HD
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpKQ9Wzd/id9AQiz-VBn-1781377154375.png" group-title="Fifa 2026",Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Fifa 2026",Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#================================== END OF Fifa 2026 - HD ==================================#
+
+#========== WASTAGE
 EXTINF:-1 tvg-logo="https://i.postimg.cc/zvgZZXYr/CITYPNG-COM-FREE-be-In-Sports-White-Logo-PNG-2000x2000.png" group-title="Fifa 2026 Premium",Bein Sports 1
 https://pul-tenm.nbs3g.com/live/hd-en-1-4460911.m3u8?txSecret=f9466fa2917bf6f9f0a367af4ee3c3aa&txTime=6A374960
 
 EXTINF:-1 tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw.png" group-title="Fifa 2026 HD",Toffee Live HD
 https://cdn-tt.pages.dev/ch4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",DSports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",GO Live HD
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",Koora City
-https://eva.sewaf.online/wiiikia2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 - HD",RTB GO HD
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-
-
-
-
-
-
-
-#================================== END OF Fifa 2026 - HD ==================================#
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYqzC2Yn/image.png" group-title="Fifa 2026",Telemundo HD
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-
-
+#========== END OF WASTAGE
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Fifa Hindi
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpKQ9Wzd/id9AQiz-VBn-1781377154375.png" group-title="Fifa 2026",Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Fifa 2026",Caze TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Gopal Bhar" group-title="Live 24/7",Gopal Bhar
