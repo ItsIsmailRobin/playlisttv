@@ -11,6 +11,8 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD
+https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD 2
 https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
 #EXTINF:-1 tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/BEINX/large_white.png" group-title="Fifa 2026 Premium",Bein Sports 1
 https://pul-tenm.nbs3g.com/live/hd-en-1-4460911.m3u8?txSecret=f9466fa2917bf6f9f0a367af4ee3c3aa&txTime=6A374960
