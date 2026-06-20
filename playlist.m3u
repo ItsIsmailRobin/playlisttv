@@ -10,6 +10,8 @@
 #==================================
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026 Premium",FOX HD
+https://ap.antsports.tv/live/6463/index.m3u8?_t=1781923088&sign=dce76a9f0a2fee5400481949aad6d2fe629fc6f24bbe3b7a61a9d2e51fcebbff&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4MTkyMjQ4NywiZXhwIjoxNzg3MTA2NDg3LCJuYmYiOjE3ODE5MjI0ODcsImp0aSI6IklIQ015RVZaMnh2RHdlZlAiLCJzdWIiOiIzNDgyMTQiLCJwcnYiOiI1ZmNhOGYwNjRkYmNlNmQxZTU5Zjk3YWE1MGMwNzU0YjRhOWQ5ODA2Iiwicm9sZSI6InVzZXIifQ.Aa2A9Er2v-xX72qkKyJll91Zz1Ik15Sddtxdm18QdMw&_rt=0
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD
 https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD 2
