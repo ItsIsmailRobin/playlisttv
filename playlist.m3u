@@ -29,7 +29,7 @@ https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 #========== WASTAGE
 
 
-#EXTINF:-1 tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw.png" group-title="Fifa 2026 HD",Toffee Live HD
+EXTINF:-1 tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw.png" group-title="Fifa 2026 HD",Toffee Live HD
 https://toffee-proxy.shahriar-diu64.workers.dev/https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782065834~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8ProSLa1czKZrALuzre0UeEq_Q2wMmeCmXUvqWTdePO9nzzB2lmPIK1L65Op6VKJEKKtDr7F2YdtgUjUXv2gsD
 
 #========== END OF WASTAGE
@@ -44,8 +44,7 @@ https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",GO Live HD
 https:\\d1211whpimeups.cloudfront.net\smil:rtbgo\chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",Koora City
-https://koora-city-live-stream.s3.eu-north-1.amazonaws.com/hls/live1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",RTB GO HD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpKQ9Wzd/id9AQiz-VBn-1781377154375.png" group-title="Fifa 2026",Win Sports
