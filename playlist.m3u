@@ -43,7 +43,7 @@ https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",GO Live HD
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+https:\\d1211whpimeups.cloudfront.net\smil:rtbgo\chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",Koora City
 https://koora-city-live-stream.s3.eu-north-1.amazonaws.com/hls/live1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tc3NPtS/fifa-REV.png" group-title="Fifa 2026",RTB GO HD
