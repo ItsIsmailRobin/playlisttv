@@ -7,8 +7,11 @@
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
 # For any issues or concerns, please contact the developer.
+
 #==================================
 #========== TOP
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",KHELAAAAAAAA!
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",ARG 🆚 AUT
@@ -17,21 +20,14 @@ https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/6bbb3f01ec11e5b10e4369978
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD 
 https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 
-#========== END OF WASTAGE
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",TSN HD
+EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",TSN HD
 https://toffee-proxy.shahriar-diu64.workers.dev/https://ataide0.mercadodavoz.com.br/tsn.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fox Sports HD
+EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fox Sports HD
 https://toffee-proxy.shahriar-diu64.workers.dev/https://602.sman1asjap.my.id/fox.m3u8
 EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",BBC HD
 https://toffee-proxy.shahriar-diu64.workers.dev/https://601.formaturamaxi.com.br/bbc.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Bein Sports HD
+EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Bein Sports HD
 https://toffee-proxy.shahriar-diu64.workers.dev/https://ataide0.mercadodavoz.com.br/bein.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",DAZN
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 
 
@@ -57,10 +53,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #================================== END OF Fifa 2026 - HD ==================================#
 
 
-
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026",Fifa Hindi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 
 
