@@ -11,8 +11,8 @@
 #==================================
 #========== TOP
 #EXTM3U
-
-
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Fifa 2026 Premium",TSN HD
+https://ataide0.sman1asjap.my.id/tsn.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Fifa 2026",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpKQ9Wzd/id9AQiz-VBn-1781377154375.png" group-title="Fifa 2026",Win Sports
