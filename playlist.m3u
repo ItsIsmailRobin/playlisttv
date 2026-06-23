@@ -12,27 +12,8 @@
 #========== TOP
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD 
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
-
-EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",TSN HD
-https://ataide0.mercadodavoz.com.br/tsn.m3u8
-EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fox Sports HD
-https://602.sman1asjap.my.id/fox.m3u8
-EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",BBC HD
-https://601.formaturamaxi.com.br/bbc.m3u8
-EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Bein Sports HD
-https://ataide0.mercadodavoz.com.br/bein.m3u8
-
-
-
-
-
-
-EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese HD 2
-https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",KHELAAAA!
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 
 
