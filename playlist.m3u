@@ -13,6 +13,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese
 https://live.666666.zip/stream/20233432.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese 2
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/2/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Fifa 2026 Premium",Fifa Chinese 3
+http://198.204.228.26/live/cctv5hd.m3u8
+
 
 
 
